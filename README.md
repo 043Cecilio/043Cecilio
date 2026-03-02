@@ -8,6 +8,33 @@ Estudante de Engenharia de Software na UTFPR, focado no desenvolvimento de habil
 
 <div style="display: inline_block">
 <img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />          
+<img align="center" alt "Java" heigth="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+          
+
+           
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+                    
+
  
 
   
