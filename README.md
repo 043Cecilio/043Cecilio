@@ -1,4 +1,4 @@
-## Gabriel Cecilio 
+## Gabriel Cecilio Menezes
 
 <div>
 Estudante de Engenharia de Software na UTFPR, focado no desenvolvimento de habilidades técnicas e práticas na área de tecnologia. Tenho grande interesse em desenvolvimento de software, inovação e soluções que agreguem valor aos negócios e à sociedade. Durante minha trajetória acadêmica, venho buscando constantemente aprimorar meus conhecimentos por meio de projetos, estudos e iniciativas que me desafiem a evoluir como profissional e como pessoa. Valorizo a excelência, o trabalho em equipe e a busca por resultados consistentes. Atualmente, estou aberto a oportunidades de emprego, networking e projetos que me permitam aplicar e expandir minhas competências na minha área de trabalho.
@@ -39,7 +39,7 @@ Estudante de Engenharia de Software na UTFPR, focado no desenvolvimento de habil
   </tr>
 </table>
 
-## Minhas redes
+## Minhas Redes
 
 <a href="https://www.linkedin.com/in/gabriel-cecilio-bb938035b">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
